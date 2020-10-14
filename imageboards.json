@@ -723,7 +723,7 @@
   },
   {
     "name": "-3chan",
-    "url": "http://dash3ch.tekcities.com/b/",
+    "url": "http://dash3ch.tekcities.com/",
     "language": [
       "en"
     ],
@@ -1557,16 +1557,6 @@
       "gazoubbs",
       "futaba",
       "futallaby"
-    ]
-  },
-  {
-    "name": "britfa.gs",
-    "url": "https://britfa.gs/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "brian"
     ]
   },
   {
