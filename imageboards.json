@@ -435,7 +435,8 @@
     ]
   },
   {
-    "name": "128chan",
+    "name": "1
+    ",
     "url": "http://128chan.tk/",
     "language": [
       "pt"
@@ -560,11 +561,7 @@
   },
   {
     "name": "28chan",
-    "url": "http://28chan.org/board/",
-    "mirrors": [
-      "http://28chan.org/board/",
-      "http://28chan.hopto.org/board/"
-    ],
+    "url": "https://28chan.org/board/",
     "language": [
       "en",
       "es"
